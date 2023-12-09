@@ -4,7 +4,7 @@ Infection clustering is an unsupervised machine learning technique for data clus
 
 ## Usage
 To use infection clustering on data, import it with 
-```
+```python
 from InfectionCluster import *
 ```
 
