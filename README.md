@@ -18,5 +18,5 @@ If you use Infection Clustering, please cite
 @misc{Infection-cluster,  
 author = {Collin Coil},  
 title = {{Infection Clustering}},  
-howpublished = {\url{https://github.com/CollinCoil/Infection-Clustering}}  
+howpublished = {\url{https://github.com/CollinCoil/Infection-Clustering }}  
 }
